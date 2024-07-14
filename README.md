@@ -1,8 +1,8 @@
 # Codsoft
 Welcome to the Data Science Internship Assignments Repository! This repository contains all the assignments, resources, and guidelines for the Data Science Internship program of CodSoft. 
 
-List of Assignments:
-Assignment 1: Credit Fraud Detection
+List of Assignments: <br>
+Assignment 1: Credit Fraud Detection 
 Assignment 2: Sales Prediction
 Assignment 3: Titantic Survival Prediction
 
